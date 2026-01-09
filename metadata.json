@@ -1,0 +1,7 @@
+{
+  "name": "Guia Ache Aqui",
+  "description": "A local business directory with real-time radio, featured banners, and a proximity radar to find the best services near you.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
